@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(69, 69, 69);
+    text-shadow: 1px 1px 2px black;
+    white-space: nowrap;
+    width: fit-content
+}
+
+h2 {
+    color: aquamarine;
+}

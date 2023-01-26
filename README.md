@@ -1,1 +1,2 @@
 # weather-chrome-extension
+This Chrome Extension calls a weather api to ge the weather for the corresponding zip code. It then displays the weather conditions in a pop up window when the extension is clicked.
